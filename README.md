@@ -1,4 +1,3 @@
-Here’s a README file template for your video calling app built with WebRTC, Socket.io, React, Node.js, and TypeScript. You can customize it further as per your specific needs.
 
 ---
 
@@ -151,4 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README gives an overview of the project, details about the tech stack, and instructions for setting up the app locally. Let me know if you'd like to include any additional sections!
+
